@@ -1,0 +1,32 @@
+
+  body{
+    text-align: center;
+    font-family: sans-serif;
+  }
+  main{
+    display: flex;
+    flex-direction: column;
+  }
+  input{
+    width: 15%;
+    padding: 0.5rem;
+    margin-left: 42%;
+    border-color: blueviolet;
+    border-radius: 5px;
+  }
+  p{
+    font-size: 18px;
+    color: black;
+  }
+  button{
+    width: 5%;
+    height: 40px;
+    padding: 0.5rem;
+    margin-left: 47%;
+    margin-top: 2%;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    background-color: blueviolet;
+
+  }
